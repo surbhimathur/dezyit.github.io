@@ -561,6 +561,7 @@ h4{
     .hero_heading{
        width:100%;
        margin-top:30px;
+     text-align: center;
     }
     .hero_image{
         width:100%;
@@ -831,7 +832,7 @@ h4{
 
      h1{
         
-        font-size: 45px;
+        font-size: 40px;
         
     }
     #design_heading{
@@ -957,6 +958,7 @@ h4{
         
         flex-basis: 60%;
         margin-top:70px;
+     text-align:left;
     }
     .hero_image{
        
